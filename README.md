@@ -1,4 +1,4 @@
-# Provincial-Distance-Statistics-Application
+# Provincial Distance Statistics Application
 
 This application performs the operations specified in the following items using the General Directorate of Highways Inter-Provincial Distance Table.
 
